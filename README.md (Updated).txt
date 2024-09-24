@@ -10,8 +10,13 @@ ktpabon@my.waketech.edu
 
 # About Me
  
-	## Interest: Gaming, rock/rare ore collecting, and writing
+	## Interest: Gaming-I have always longed to get a PC to further expand the games in which are available to me and I have gotten one right before the start of the semester and I have thoroughly enjoyed it.  
+		     Rock/rare ore collecting-This is something which I have done since I was a kid and my world was opened to the various typed, colors and shapes of rocks and ores. 
+		    Writing: I have always loved to write and have been completing several projects mainly fan fictions for my favorite shows/movies. I like to expand upon the already created world while trying to stay true to the author's vision. 
 
-	## Websites I Recommend: https://mail.yahoo.com-This is my default mailbox that I have used since I was 18 
-			      https://www.espn.com-This is my default website for any sports news I need. 
+	## Websites I Recommend: https://mail.yahoo.com-This is my default mailbox that I have used since I was 18
+ 
+			         https://www.espn.com-This is my default website for any sports news I need. 
+				 
+				 
 			      
