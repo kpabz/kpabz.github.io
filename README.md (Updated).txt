@@ -10,7 +10,8 @@ ktpabon@my.waketech.edu
 
 # About Me
  
-	##Interest: Gaming, rock/rare ore collecting, and writing
-	##Websites I Recommend: https://mail.yahoo.com-This is my default mailbox that I have used since I was 18 
+	## Interest: Gaming, rock/rare ore collecting, and writing
+
+	## Websites I Recommend: https://mail.yahoo.com-This is my default mailbox that I have used since I was 18 
 			      https://www.espn.com-This is my default website for any sports news I need. 
 			      
