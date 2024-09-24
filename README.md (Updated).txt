@@ -8,7 +8,8 @@ ktpabon@my.waketech.edu
 
 4. To clone this repository, I downloaded the desktop version of GitHub and searched for my online repository and cloned it to my local pc. 
 
-# About Me 
+# About Me
+ 
 	##Interest: Gaming, rock/rare ore collecting, and writing
 	##Websites I Recommend: https://mail.yahoo.com-This is my default mailbox that I have used since I was 18 
 			      https://www.espn.com-This is my default website for any sports news I need. 
