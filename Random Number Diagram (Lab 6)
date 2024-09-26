@@ -1,0 +1,5 @@
+ A[Random Number Game Diagram] -->|Computer is loaded with various number ranges| B(computer selects one of the ranges at random)
+    B --> C{User picks number from given range}
+    C -->|User Is Right| D[Displays correct!]
+    C -->|User guess is too high| E[Displays Guess Too High]
+    C -->|User guess is too low| F[Display Guess Too Low]
